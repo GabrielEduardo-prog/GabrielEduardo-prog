@@ -1,5 +1,3 @@
 
 
-<img src="https://raw.githubusercontent.com/GabrielEduardo-prog/GabrielEduardo-prog/output/snake.svg" alt="Snake animation" />
-
-###
+  gjnmn jkm nm ,mjknm nkm ,nm , m, m, m,
