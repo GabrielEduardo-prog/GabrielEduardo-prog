@@ -18,5 +18,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/GabrielEduardo-prog/GabrielEduardo-prog/output/snake.svg)
 
